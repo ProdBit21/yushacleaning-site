@@ -1,0 +1,1 @@
+import{u as r}from"./useQuery-CgM-QtEz.js";import{d as i,e as n}from"./booking-DRb0trEq.js";function t(){const{data:e}=r({queryKey:["pricingconfig"],queryFn:n,staleTime:6e5,placeholderData:i});return e??i}export{t as u};

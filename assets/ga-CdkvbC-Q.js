@@ -1,0 +1,1 @@
+function c(){}function r(t){var n;(n=window.gtag)==null||n.call(window,"event","page_view",{page_path:t})}function o(t){var e;const{name:n,...a}=t,i="value"in a?{...a,currency:"USD"}:a;(e=window.gtag)==null||e.call(window,"event",n,i)}export{c as i,r as p,o as t};
