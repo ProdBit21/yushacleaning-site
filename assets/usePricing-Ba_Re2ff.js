@@ -1,0 +1,1 @@
+import{u as o}from"./useQuery-B6RyODkA.js";import{d as i}from"./config-CSAevV3L.js";import{f as e}from"./booking-B0PC95vC.js";function f(){const{data:r}=o({queryKey:["pricingconfig"],queryFn:e,staleTime:6e5,placeholderData:i});return r??i}export{f as u};

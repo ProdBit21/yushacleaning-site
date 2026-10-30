@@ -1,0 +1,1 @@
+import{s as a}from"./schemas-CehGL_Wd.js";const r=a().min(8,"At least 8 characters").regex(/[A-Z]/,"Include a capital letter").regex(/\d/,"Include a number").regex(/[^A-Za-z0-9]/,"Include a symbol"),t="8+ characters with a capital letter, a number and a symbol";export{r as a,t as p};
